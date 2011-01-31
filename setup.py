@@ -6,7 +6,7 @@ version = '0.1'
 setup(name='cronjobs',
       version=version,
       description="Cronjob helper for Django",
-      long_description=open("readme.txt").read() + "\n",
+      long_description=open("readme.rst").read() + "\n",
       classifiers=[
         'Programming Language :: Python',
         'Topic :: Software Development :: Libraries :: Python Modules',
@@ -18,6 +18,6 @@ setup(name='cronjobs',
       author='Mozilla',
       author_email='andym@mozilla.com',
       url='http://mozilla.com',
-      license='MPL',
+      license='BSD',
       zip_safe=True,
       )
