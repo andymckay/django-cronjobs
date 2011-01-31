@@ -9,7 +9,7 @@ Installation
 
 1. Install from pypi::
 
-    pip install cronjobs
+    pip install django-cronjobs
 
 2. Add 'cronjobs' to your INSTALLED_APPS in settings.py.
 
